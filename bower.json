@@ -1,0 +1,7 @@
+{
+  "name": "poc_monitor",
+  "dependencies": {
+    "gulp": "~3.8.1",
+    "bootstrap": "~3.1.1"
+  }
+}
